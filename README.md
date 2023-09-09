@@ -1,6 +1,10 @@
 # SnakeGame
 A Simple snake game created in Java
 
+### Rules of Snake
+
+The "head" of the snake continually moves forward, unable to stop, growing ever longer. It must be steered left, right, up, and down to avoid hitting walls and the body of the snake. Keep eating fruit(red balls) to grow and get a higher score!
+
 Run using your preferred Java IDE.
 
 Instructions to run the application:
