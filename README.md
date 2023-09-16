@@ -8,12 +8,12 @@ The "head" of the snake continually moves forward, unable to stop, growing ever 
 Use arrows to move up,down,left or right.
 Press R to restart the game and ESC to exit.
 
-Run using your preferred Java IDE.
+Run with JDK19 using your IntelliJ Java IDE.
 
 Instructions to run the application:
 
 1. Download the repository
-2. Open the Snake folder using your preferred Java IDE.
+2. Open the Snake folder using IntelliJ Java IDE(JDK19).
 3. Run the program using your IDE by running the main class inside Snake/src/main/java/SnakeGame
 
 Have fun!
